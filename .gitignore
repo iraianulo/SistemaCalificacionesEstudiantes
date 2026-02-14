@@ -5,6 +5,7 @@
 build/
 out/
 target/
+build.xml
 
 # IDEs
 .idea/
@@ -12,3 +13,5 @@ target/
 
 # Manifest generado
 manifest.mf
+
+
