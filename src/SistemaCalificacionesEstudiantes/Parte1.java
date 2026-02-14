@@ -22,7 +22,7 @@ Mensajes de error con System.err
 El programa NO debe cerrarse por errores
  */
 
-package TareaOnline04; //Indica el paquete en el que está el archivo
+package SistemaCalificacionesEstudiantes; //Indica el paquete en el que está el archivo
 
 import java.util.Scanner; //Scanner para leer del teclado
 import java.util.InputMismatchException; //Para poder usar el try-catch a modo de letras en vez de números

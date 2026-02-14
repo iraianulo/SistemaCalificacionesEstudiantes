@@ -17,7 +17,7 @@ Mensajes de error con System.err
 El programa NO debe cerrarse por errores
 */
 
-package TareaOnline04;
+package SistemaCalificacionesEstudiantes;
 
 import java.util.Scanner;
 
