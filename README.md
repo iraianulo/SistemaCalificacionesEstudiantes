@@ -34,3 +34,13 @@ Parte 2: Diseño de un programa que solicite al usuario introducir una frase y r
 
 \- Lógica de control
 
+
+
+\## Estado
+
+Proyecto finalizado.
+
+Versión entregada en DAW.
+
+
+
