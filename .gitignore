@@ -1,0 +1,14 @@
+# Java compilado
+*.class
+
+# Carpetas de build
+build/
+out/
+target/
+
+# IDEs
+.idea/
+.vscode/
+
+# Manifest generado
+manifest.mf
